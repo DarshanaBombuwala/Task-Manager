@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Task Manager</string>
+    <string name="welcome_text">This productivity tool is designed to help you better manager your task project-wise conveniently</string>
+    <string name="get_started">Get Started</string>
 </resources>
